@@ -1,0 +1,38 @@
+[
+  {
+    "modelo": "Regressao Logistica",
+    "accuracy": 0.799,
+    "precision": 0.375,
+    "recall": 0.7778,
+    "f1": 0.506,
+    "roc_auc": 0.8843,
+    "pr_auc": 0.4693
+  },
+  {
+    "modelo": "Random Forest",
+    "accuracy": 0.902,
+    "precision": 0.6296,
+    "recall": 0.6296,
+    "f1": 0.6296,
+    "roc_auc": 0.9091,
+    "pr_auc": 0.685
+  },
+  {
+    "modelo": "XGBoost",
+    "accuracy": 0.8775,
+    "precision": 0.5417,
+    "recall": 0.4815,
+    "f1": 0.5098,
+    "roc_auc": 0.8975,
+    "pr_auc": 0.6157
+  },
+  {
+    "modelo": "Random Forest (ajustado)",
+    "accuracy": 0.8824,
+    "precision": 0.5429,
+    "recall": 0.7037,
+    "f1": 0.6129,
+    "roc_auc": 0.9134,
+    "pr_auc": 0.7102
+  }
+]

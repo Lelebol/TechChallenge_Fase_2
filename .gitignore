@@ -1,0 +1,18 @@
+# Ambientes virtuais
+venv/
+.venv/
+env/
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Sistemas operacionais / IDEs
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

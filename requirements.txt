@@ -1,0 +1,21 @@
+# Dependencias diretas do projeto (versoes testadas neste ambiente).
+# Instalacao:  pip install -r requirements.txt
+
+# Dados e computacao numerica
+numpy==2.5.1
+pandas==3.0.3
+
+# Machine learning
+scikit-learn==1.9.0
+xgboost==3.3.0
+imbalanced-learn==0.14.2
+
+# Visualizacao
+matplotlib==3.11.0
+seaborn==0.13.2
+
+# Ambiente de notebook e execucao
+# (scripts/run_notebook.py usa o kernel in-process do ipykernel + nbformat)
+jupyter==1.1.1
+ipykernel==7.3.0
+nbformat==5.10.4
